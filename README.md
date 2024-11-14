@@ -5,4 +5,5 @@ CRUD de la tabla Materia Create-Crear Read-Leer Update-Actualizar Delete-Borrar
 <img width="635" alt="image" src="https://github.com/user-attachments/assets/151efd80-7c49-4eb1-bb62-1e12e818541f">
 
 ## Fin de crud tabla materia
-![image](https://github.com/user-attachments/assets/63d29e50-512c-4120-a7a9-03df07de98d5)
+![image](https://github.com/user-attachments/assets/635201c5-1226-4c76-9314-2db2508abae6)
+
